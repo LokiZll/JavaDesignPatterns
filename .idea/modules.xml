@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaDesignPatterns.iml" filepath="$PROJECT_DIR$/JavaDesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mediator/中介者模式.iml" filepath="$PROJECT_DIR$/Mediator/中介者模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Flyweight/享元模式.iml" filepath="$PROJECT_DIR$/Flyweight/享元模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy/代理模式.iml" filepath="$PROJECT_DIR$/Proxy/代理模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton/单例模式.iml" filepath="$PROJECT_DIR$/Singleton/单例模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prototype/原型模式.iml" filepath="$PROJECT_DIR$/Prototype/原型模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Command/命令模式.iml" filepath="$PROJECT_DIR$/Command/命令模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Memento/备忘录模式.iml" filepath="$PROJECT_DIR$/Memento/备忘录模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facade/外观模式.iml" filepath="$PROJECT_DIR$/Facade/外观模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryMethod/工厂模式.iml" filepath="$PROJECT_DIR$/FactoryMethod/工厂模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder/建造者模式.iml" filepath="$PROJECT_DIR$/Builder/建造者模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bridge/桥接模式.iml" filepath="$PROJECT_DIR$/Bridge/桥接模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemplateMethod/模板方法模式.iml" filepath="$PROJECT_DIR$/TemplateMethod/模板方法模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/State/状态模式.iml" filepath="$PROJECT_DIR$/State/状态模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strategy/策略模式.iml" filepath="$PROJECT_DIR$/strategy/策略模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composite/组合模式.iml" filepath="$PROJECT_DIR$/Composite/组合模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decorator/装饰模式.iml" filepath="$PROJECT_DIR$/Decorator/装饰模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer/观察者模式.iml" filepath="$PROJECT_DIR$/Observer/观察者模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interpreter/解释器模式.iml" filepath="$PROJECT_DIR$/Interpreter/解释器模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Visitor/访问者模式.iml" filepath="$PROJECT_DIR$/Visitor/访问者模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChainOfResponsibility/责任链模式.iml" filepath="$PROJECT_DIR$/ChainOfResponsibility/责任链模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iterator/迭代子模式.iml" filepath="$PROJECT_DIR$/Iterator/迭代子模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Adapter/适配器模式.iml" filepath="$PROJECT_DIR$/Adapter/适配器模式.iml" />
+    </modules>
+  </component>
+</project>
